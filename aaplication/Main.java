@@ -1,6 +1,6 @@
-package com.curso;
+package aaplication;
 
-import bank.Banco;
+import entities.Banco;
 import java.util.Locale;
 import java.util.Scanner;
 
